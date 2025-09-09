@@ -1,1 +1,1 @@
-<img width="679" height="727" alt="image" src="https://github.com/user-attachments/assets/17e2958c-17a0-4e7b-93ba-6171ad1a9f96" />
+![alt](https://raw.githubusercontent.com/30osob-studio/Website/dcc25d4caed794f9bd0b7505d05a815c05efd0bc/NoImage.png)
