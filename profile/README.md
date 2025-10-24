@@ -1,1 +1,1 @@
-This is about a lot of things, mainly IT but also Art and Video forms, we just started and we are doing best to improve.
+It's about a lot of things, mainly IT but also Art and Video forms, it just started and improving little by little.
